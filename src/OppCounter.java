@@ -1,0 +1,2 @@
+class OppCounter extends Counter { 
+}
